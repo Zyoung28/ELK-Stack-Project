@@ -161,7 +161,7 @@ Below is the ELK installation script. Docker and Python are installed. More memo
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![TODO: Update the path with the name of your screenshot of docker ps output](https://raw.githubusercontent.com/Zyoung28/ELK-Stack-Project/main/Diagrams/docker-hello-world.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
